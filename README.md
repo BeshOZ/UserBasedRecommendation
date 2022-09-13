@@ -1,5 +1,9 @@
 # Hybrid Recommender System
 
+![rsz_young-woman-watching-tv-and-eating-popcorn-at-night-picjumbo-com](https://user-images.githubusercontent.com/110662602/189825170-f43f8c90-1594-47f0-b996-7acd668c4a53.jpg)
+
+
+
 # Objectives 
 Make film recommendation based on user preferences or the latest moive the user rated 5 stars. 
 
