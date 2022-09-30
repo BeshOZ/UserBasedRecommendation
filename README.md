@@ -22,53 +22,53 @@ The data are contained in six files.
 
 1. tag.csv that contains tags applied to movies by users:
 
-* userId
+  * userId
 
-* movieId
+  * movieId
 
-* tag
+  * tag
 
-* timestamp
+  * timestamp
 
 2. rating.csv that contains ratings of movies by users:
 
-* userId
+  * userId
 
-* movieId
+  * movieId
 
-* rating
+  * rating
 
-* timestamp
+  * timestamp
 
-- movie.csv that contains movie information:
+3. movie.csv that contains movie information:
 
-* movieId
+  * movieId
 
-* title
+  * title
 
-* genres
+  * genres
 
-- link.csv that contains identifiers that can be used to link to other sources:
+4. link.csv that contains identifiers that can be used to link to other sources:
 
-* movieId
+  * movieId
 
-* imdbId
+  * imdbId
 
-* tmbdId
+  * tmbdId
 
-- genome_scores.csv that contains movie-tag relevance data:
+5. genome_scores.csv that contains movie-tag relevance data:
 
-* movieId
+  * movieId
 
-* tagId
+  * tagId
 
-* relevance
+  * relevance
 
-- genome_tags.csv that contains tag descriptions:
+6. genome_tags.csv that contains tag descriptions:
 
-* tagId
+  * tagId
 
-* tag
+  * tag
 
 
 
