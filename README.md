@@ -20,55 +20,55 @@ No demographic information is included. Each user is represented by an id, and n
 
 The data are contained in six files.
 
-tag.csv that contains tags applied to movies by users:
+- tag.csv that contains tags applied to movies by users:
 
-userId
+* userId
 
-movieId
+* movieId
 
-tag
+* tag
 
-timestamp
+* timestamp
 
-rating.csv that contains ratings of movies by users:
+- rating.csv that contains ratings of movies by users:
 
-userId
+* userId
 
-movieId
+* movieId
 
-rating
+* rating
 
-timestamp
+* timestamp
 
-movie.csv that contains movie information:
+- movie.csv that contains movie information:
 
-movieId
+* movieId
 
-title
+* title
 
-genres
+* genres
 
-link.csv that contains identifiers that can be used to link to other sources:
+- link.csv that contains identifiers that can be used to link to other sources:
 
-movieId
+* movieId
 
-imdbId
+* imdbId
 
-tmbdId
+* tmbdId
 
-genome_scores.csv that contains movie-tag relevance data:
+- genome_scores.csv that contains movie-tag relevance data:
 
-movieId
+* movieId
 
-tagId
+* tagId
 
-relevance
+* relevance
 
-genome_tags.csv that contains tag descriptions:
+- genome_tags.csv that contains tag descriptions:
 
-tagId
+* tagId
 
-tag
+* tag
 
 
 
