@@ -20,7 +20,7 @@ No demographic information is included. Each user is represented by an id, and n
 
 The data are contained in six files.
 
-- tag.csv that contains tags applied to movies by users:
+1. tag.csv that contains tags applied to movies by users:
 
 * userId
 
@@ -30,7 +30,7 @@ The data are contained in six files.
 
 * timestamp
 
-- rating.csv that contains ratings of movies by users:
+2. rating.csv that contains ratings of movies by users:
 
 * userId
 
